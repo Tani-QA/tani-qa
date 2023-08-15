@@ -25,6 +25,7 @@ I am a Manual QA Engineer. I am engaged in functional testing of websites and mo
 *   [Test cases and Checklists](https://drive.google.com/drive/folders/1ol1bSBbI6H7pKGgqN6796fiUtGl2lY_R?usp=sharing) - Examples of test cases and checklists
 *   [Bug reports](https://drive.google.com/drive/folders/1Irj-gBZ-BUYJgVKO2ctmSDXPHLgjzewq?usp=sharing) - Examples of bug reports
 *   [Java code](https://github.com/Tani-QA/EPAM_Java) - Example code
+*   [API collections](https://www.postman.com/tat-qa/workspace/qa-artsiom/collection/21848697-c23409b5-9d3a-449b-94c0-2665cbb5f939?action=share&creator=21848697) - Example API collection
 
 
 
