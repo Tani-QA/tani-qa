@@ -21,11 +21,13 @@ I am a Manual QA Engineer. I am engaged in functional testing of websites and mo
 
 ### My examples
 
+*   [Mind Map Y.Marshruts](https://miro.com/app/board/uXjVOxBLdRQ=/?share_link_id=740124791483), [Mind Map Y.Samokat](https://miro.com/app/board/uXjVPXBUMe0=/?share_link_id=185232405993)  - Examples of mind maps to various functional
 *   [SQL queries](https://github.com/Tani-QA/sql_to_database) - Examples of SQL queries to various databases
 *   [Test cases and Checklists](https://drive.google.com/drive/folders/1ol1bSBbI6H7pKGgqN6796fiUtGl2lY_R?usp=sharing) - Examples of test cases and checklists
+*   [API collection Pet store](https://www.postman.com/tat-qa/workspace/qa-artsiom/collection/21848697-c23409b5-9d3a-449b-94c0-2665cbb5f939?action=share&creator=21848697), [API collection Y.Samokat](https://www.postman.com/tat-qa/workspace/yandex-samokat/collection/21848697-0ed713db-5b4c-4f14-a710-06860a668159?action=share&creator=21848697), [API collection Y.Prilavok](https://www.postman.com/tat-qa/workspace/yandex-prilavok/collection/21848697-0ea21ba0-2eb1-4db2-88fd-4beb7754f276?action=share&creator=21848697) - Examples API collection
 *   [Bug reports](https://drive.google.com/drive/folders/1Irj-gBZ-BUYJgVKO2ctmSDXPHLgjzewq?usp=sharing) - Examples of bug reports
 *   [Java code](https://github.com/Tani-QA/EPAM_Java) - Example code
-*   [API collections](https://www.postman.com/tat-qa/workspace/qa-artsiom/collection/21848697-c23409b5-9d3a-449b-94c0-2665cbb5f939?action=share&creator=21848697) - Example API collection
+
 
 
 
