@@ -2,23 +2,24 @@
 I am a Manual QA Engineer. I am engaged in functional testing of websites and mobile applications on Android. I am striving to improve my skills in the field of testing, developing into automation in order to optimize some of the processes and time. At the moment, my superpower is API testing.
 
 ### Key points
-*   I have been trained in testing courses: Yandex Practicum, Artsiom Rusau QA Life, SQL, API, Automated API tests
-*   700+ test cases and checklists have been written. 200+ bug reports have been found and processed.
+*   I have been trained in testing courses: Yandex Practicum, QA Life Artsiom Rusau, SQL, API, Automated API tests, Mobile testing, Load testing using Jmeter
+*   700+ test cases and checklists have been written. 270+ bug reports have been found and processed.
 *   Full immersion in the internal processes of the product
 *   Currently studying at the EPAM course, Automated Testing Basic in Java
+*   [My certificates](https://drive.google.com/drive/u/3/folders/17M8ITdRCVlLrTqv4hYSNYQ_9UDbnCIpv)
 
 ## 🛠 Technical Stack
 *   <b>MindMaps:</b> draw.io, XMind, Miro, Figma
 *   <b>Web applications:</b> HTTP/s, DevTools, Cross-browser testing
-*   <b>Mobile applications:</b> Android Studio, logs 
-*   <b>Databases:</b> SQL, MySQL, MySQL Workbench, DBeaver, MongoDB (noSQL), Visual Studio Code, CLI, connecting to a remote server, ER-charts, JOIN, MS Access, VB, VBA
-*   <b>TMS:</b> Yandex.Tracker, Jira, Zephyr Squad, Zephyr Scale, Confluence, Azure DevOps, YouTrack, TestRail, QASE, TestIT
+*   <b>Mobile applications:</b> Android Studio, BrowserStack
+*   <b>Databases:</b> SQL, MySQL, MySQL Workbench, DBeaver, MongoDB (noSQL), MS Access, VB, VBA
+*   <b>TMS:</b> Yandex.Tracker, Jira, Zephyr Squad, Zephyr Scale, Confluence, Azure DevOps, YouTrack, TestRail, QASE, TestIT, ClickUp
 *   <b>CLI:</b>  cmd, cygwin terminal, powershelll, git bash, git gui, gitkraken
 *   <b>Sniffers:</b> Charles Proxy (BreakPoints, Rewrite, MapLocal), Fiddler Classic, Proxy man
 *   <b>API:</b> Apidoc, Swagger, Postman, SoapUI, understanding JSON и XML
+*   <b>also:</b> GitHub, GitLab, Visual Studio Code, IntelliJ IDEA, HTML‚ CSS, basics of the language Java, JS, С/С++, Jmeter
 *   <b>Test auto:</b> Currently studying at the EPAM course, Automated Testing Basic in Java
-*   <b>also:</b> GitHub, GitLab, IntelliJ IDEA, HTML‚ CSS, Java Script, Java, С/С++  basics of the language
-
+  
 ### My examples
 
 <!-- первый вариант отображения 
