@@ -17,7 +17,7 @@ I am a Manual QA Engineer. I am engaged in functional testing of websites and mo
 *   <b>CLI:</b>  cmd, cygwin terminal, powershelll, git bash, git gui, gitkraken
 *   <b>Sniffers:</b> Charles Proxy (BreakPoints, Rewrite, MapLocal), Fiddler Classic, Proxy man
 *   <b>API:</b> Apidoc, Swagger, Postman, SoapUI, understanding JSON и XML
-*   <b>also:</b> GitHub, GitLab, Visual Studio Code, IntelliJ IDEA, HTML‚ CSS, basics of the language Java, JS, С/С++, Jmeter
+*   <b>also:</b> GitHub, GitLab, Visual Studio Code, Jenkins, IntelliJ IDEA, HTML‚ CSS, basics of the language Java, JS, С++, Jmeter
 *   <b>Test auto:</b> Currently studying at the EPAM course, Automated Testing Basic in Java
   
 ### My examples
